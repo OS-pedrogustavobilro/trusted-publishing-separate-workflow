@@ -1,6 +1,6 @@
 {
   "name": "@ospedrobilro/trusted-publishing-separate-workflow",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "type": "commonjs",
   "description": "Test trusted publishing with publishing separate from triggering workflow.",
   "homepage": "https://github.com/OS-pedrogustavobilro/trusted-publishing-separate-workflow",
